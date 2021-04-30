@@ -14,5 +14,15 @@ I added some preventative measures for possible Server Response Outliers in orde
 send. Outside of that, I implemented the WAITING, ERROR, and OK server response handling. All that's needed is to fill up the OK if statement with the RDT3.0 Protocol of data 
 loss, corruption, and delays.
 
+4/28/2021:
+Implemented Rough Structure of RDT3.0 Protocol for Receiver and Sender
+
+4/29/2021:
+Finished implementing incorrect ACK and duplicate handling for receiver and timeouts for the sender.
+
+Implemented RDT3.0 Protocol into Gaia Communication and worked out bugs
+
+Added summary of transmission of packets lost, packets corrupt, and timeouts for easier user access.
+
 DISCLAIMER:
 NOT ALLOWED TO COPY IN ANY WAY SHAPE OR FORM FOR USE IN CS453 Computer Networks at UMass Amherst!
