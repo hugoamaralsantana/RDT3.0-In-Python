@@ -23,6 +23,3 @@ Finished implementing incorrect ACK and duplicate handling for receiver and time
 Implemented RDT3.0 Protocol into Gaia Communication and worked out bugs
 
 Added summary of transmission of packets lost, packets corrupt, and timeouts for easier user access.
-
-DISCLAIMER:
-NOT ALLOWED TO COPY IN ANY WAY SHAPE OR FORM FOR USE IN CS453 Computer Networks at UMass Amherst!
